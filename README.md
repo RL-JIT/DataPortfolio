@@ -6,3 +6,13 @@ http://www.linkedin.com/in/ramlalipstein
 
 This is my [Volcanoes Data analysis in Python](https://anaconda.cloud/share/notebooks/04c3a43b-c899-41ea-bf07-57ca1ebda316/overview)
 These is my [Superhero Project File](./Power_BI_Projects/SuperHeroes.pbix) for data analysis.
+
+
+### Topics covered in this bootcamp
+- Excel
+- Tableau
+- Power BI
+- SQL
+- R
+- Azure
+- Python
